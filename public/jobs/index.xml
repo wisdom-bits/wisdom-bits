@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jobs on Saasify</title>
+    <title>Jobs on Wisdom Bits</title>
     <link>http://localhost:1313/jobs/</link>
-    <description>Recent content in Jobs on Saasify</description>
+    <description>Recent content in Jobs on Wisdom Bits</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 20:36:48 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/jobs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Product Manager</title>

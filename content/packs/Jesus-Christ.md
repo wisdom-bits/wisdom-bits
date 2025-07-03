@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with Hugo: A Beginner's Guide"
+title: "Jesus Christ"
 date: 2023-07-20
 author: "John Doe"
 description: "Learn how to build your first website with Hugo, the world's fastest framework for building websites."

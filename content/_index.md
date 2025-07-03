@@ -11,28 +11,13 @@ client_logos:
     logo: "/images/logos/customer-4.png"
   - name: "Customer 5"
     logo: "/images/logos/customer-5.png"
-testimonials:
-  - name: "John Smith"
-    title: "CTO at TechStartup"
-    avatar: "/images/testimonial-1.svg"
-    quote: "We built our SaaS website in record time. The performance is incredible, and our users love the modern, clean design."
-  - name: "Sarah Johnson"
-    title: "Founder at WebFlow"
-    avatar: "/images/testimonial-1.svg"
-    quote: "The combination of Hugo and TailwindCSS delivers lightning-fast performance. Our website loads instantly, which has significantly improved our conversion rates."
-  - name: "Michael Chen"
-    title: "Lead Developer at CloudTech"
-    avatar: "/images/testimonial-1.svg"
-    quote: "This theme made it easy to create a professional SaaS website. The build times are incredibly fast, and the code is clean and maintainable."
 ---
 
 {{< hero 
-    headline="Build Your SaaS Website"
-    sub_headline="Create stunning, responsive websites that load instantly. Built with Hugo and TailwindCSS for maximum performance and flexibility."
-    primary_button_text="Get Started Free"
+    headline="Timeless wisdom. One card at a time."
+    sub_headline="Start your day with a dose of truth — compact, clear, and crafted to inspire."
+    primary_button_text="Get Started"
     primary_button_url="#"
-    secondary_button_text="View Demo"
-    secondary_button_url="#"
     hero_image="/images/hero-dashboard.svg"
     gradient-from="#dbeafe"
     gradient-to="#f3e8ff"
@@ -42,53 +27,43 @@ testimonials:
 {{< client-logos animate="true" >}}
 
 {{< features-section 
-    title="Modern Features for Modern Websites"
-    description="Discover how our theme helps you build fast, beautiful SaaS websites with ease."
+    title="Timeless Truths in a Modern Format"
+    description="Discover how Wisdom Bits helps you share scripture beautifully and simply — in a way that fits everyday life."
 >}}
 
 {{< feature
-    title="Lightning-Fast Performance"
-    description="Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
-    badge="Performance"
+    title="Wisdom made simple"
+    description="Each card contains no more than two powerful verses—cleanly presented and free from clutter—so you can focus on what matters most."
+    badge="Simplicity"
     badgeColor="#2563eb"
-    image="/images/feature-1.svg"
-    buttonText="Learn More"
+    image="/images/Simplicity.svg"
+    buttonText="Learn Something"
     buttonLink="/features/performance/"
-    features="Sub-second page loads,Optimized assets,Minimal JavaScript,CDN-ready output"
+    features="2 verses max per card,Clean and distraction-free layout,No interpretation — just scripture"
     imagePosition="right"
 >}}
 
 {{< feature
-    title="Beautiful Design System"
-    description="Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
-    badge="Design"
+    title="Clear truth, quickly grasped"
+    description="Our cards are designed to be visually accessible and spiritually impactful. The design fades into the background so the Word can shine."
+    badge="Clarity"
     badgeColor="#7c3aed"
-    image="/images/feature-2.svg"
-    buttonText="Learn More"
-    buttonLink="/features/design-system/"
-    features="Modern UI components,Responsive design,Custom typography,Flexible layouts"
+    image="/images/Clarity.svg"
+    features="Easy-to-read fonts,High contrast for visibility,Designed for quick reflection"
     imagePosition="left"
 >}}
 
 {{< feature
-    title="Developer Experience"
-    description="Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
-    badge="Development"
+    title="Carry wisdom with you"
+    description="Wisdom Bits fit in your pocket, your bag, or your Bible. Whether you’re commuting, traveling, or resting, truth is always at hand."
+    badge="Portability"
     badgeColor="#16a34a"
-    image="/images/feature-3.svg"
-    buttonText="Learn More"
-    buttonLink="/features/developer-experience/"
-    features="Component system,Easy customization,Clean code,Detailed documentation"
+    image="/images/Portable.svg"
+    features="Pocket-sized cards,Durable matte finish,Take it anywhere"
     imagePosition="right"
 >}}
 
-{{< /features-section >}}
 
-{{< testimonials 
-    title="Trusted by Modern Web Teams"
-    description="See how teams are building better websites with our theme."
-    animate="true"
-    background-color="#f1f5f9"
->}}
+{{< /features-section >}}
 
 {{< cta >}}

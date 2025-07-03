@@ -1,5 +1,5 @@
 ---
-title: "Deploying Hugo Sites: A Complete Guide"
+title: "Holy Spirit"
 date: 2023-07-22
 author: "Alex Johnson"
 description: "Learn how to deploy your Hugo site to various platforms including Netlify, Vercel, and GitHub Pages."

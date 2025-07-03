@@ -1,5 +1,5 @@
 ---
-title: "Customizing Your Hugo Theme: A Deep Dive"
+title: "God"
 date: 2023-07-21
 author: "Jane Smith"
 description: "Learn how to customize your Hugo theme to create a unique website that matches your brand and requirements."

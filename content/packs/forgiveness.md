@@ -1,5 +1,5 @@
 ---
-title: "Optimizing Hugo Performance: Speed Up Your Site"
+title: "Forgiveness"
 date: 2023-07-23
 author: "Sarah Chen"
 description: "Learn advanced techniques to optimize your Hugo site for better performance, faster load times, and improved user experience."
