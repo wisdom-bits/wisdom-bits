@@ -36,8 +36,8 @@ logo = "/images/Starting-card.svg"
 enable = true
 title = "Ready for all bits of wisdom?"
 description = "Join Christians around the world in sharing scripture in a simple, beautiful way."
-gradient_from = "#2563eb"                                                                              # Indigo-600
-gradient_to = "#7c3aed"                                                                                # Purple-600
+gradient_from = "#2563eb"                                                                         # Indigo-600
+gradient_to = "#7c3aed"                                                                           # Purple-600
 gradient_angle = 30
 [params.cta.primary_button]
 text = "Get Started"
@@ -199,3 +199,7 @@ weight = 1
 name = "Privacy Policy"
 url = "/privacy"
 weight = 2
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
